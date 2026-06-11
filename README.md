@@ -72,6 +72,16 @@ A Streamlit dashboard designed for non-technical marketing managers:
 
 ### How to Run
 
+## How to Run
+
+### Option 1: Open the Live Dashboard
+
+You can directly use the deployed Streamlit app:
+
+[Open Dashboard]([YOUR_STREAMLIT_CLOUD_URL_HERE](https://czj3gjhrnzbzuwue9ypjrt.streamlit.app/))
+
+### Option 2: Run Locally
+
 ```bash
 # 1. Clone the repository
 git clone <repo-url>
@@ -82,7 +92,6 @@ pip install -r requirements.txt
 
 # 3. Run the Streamlit app
 streamlit run app/app.py
-```
 
 The app reads from `data/final_customer_intelligence.csv`. Run the command from the **project root**, not from inside the `app/` folder.
 
