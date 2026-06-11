@@ -78,7 +78,7 @@ A Streamlit dashboard designed for non-technical marketing managers:
 
 You can directly use the deployed Streamlit app:
 
-[Open Dashboard]([YOUR_STREAMLIT_CLOUD_URL_HERE](https://czj3gjhrnzbzuwue9ypjrt.streamlit.app/))
+[Open Dashboard](https://czj3gjhrnzbzuwue9ypjrt.streamlit.app/)
 
 ### Option 2: Run Locally
 
